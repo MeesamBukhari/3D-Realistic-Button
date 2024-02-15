@@ -1,0 +1,14 @@
+{
+    "name": "3D Button",
+    "short_name": "3D Button",
+    "icons": [
+        {
+            "src": "android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
